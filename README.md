@@ -4,6 +4,10 @@ Manufacturing information for the Flight system
 #### [Flight_Assembly_BoM](Flight_Assembly_BoM.csv)
 Bill of Materials for full system assembly 
 
+#### Custom Parts Required:
+- [Logger Box](./Box)
+- [Mounting Plate](./Box)
+
 #### Sub Assemblies Required:
 - [Kestrel Board, v1.7](https://github.com/gemsiot/DFM_-_Kestrel)
 - [Gonk Board, v1.2](https://github.com/gemsiot/DFM_-_Gonk-18650-1S3P)
