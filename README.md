@@ -36,3 +36,14 @@ Bill of Materials for full system assembly
 	- __Cable gland cap should be tightened with a torque of 1.0Nm__
 	- __Lid screws should be tightened with a torque of 0.9Nm__
 
+## System Registration/Testing
+
+1. Connect logger to computer using micro USB cable
+2. Switch logger on using external switch
+3. Run provided registration program 
+	- Assign name with sequential numbering which matches label on boards 
+4. Receive conformation of success from registration program
+5. Unplug logger from computer and set aside
+6. Wait for self-test to complete, ensure LEDs do not indicate any failure
+	- If no failure indication: shut down logger, assembly process is completed
+	- If failure is indicated: review logger output and confirm system assembly 
