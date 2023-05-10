@@ -9,11 +9,11 @@ Bill of Materials for full system assembly
 - [Mounting Plate](./Box)
 
 #### Sub Assemblies Required:
-- [Kestrel Board, v1.7](https://github.com/gemsiot/DFM_-_Kestrel)
+- [Kestrel Board, v1.8](https://github.com/gemsiot/DFM_-_Kestrel)
 - [Gonk Board, v1.2](https://github.com/gemsiot/DFM_-_Gonk-18650-1S3P)
 - [SDI-12 Talon, v1.4](https://github.com/gemsiot/DFM_-_Talon-SDI12)
 - [I2C Talon, v2.1](https://github.com/gemsiot/DFM_-_Talon-I2C)
-- [Aux Talon, v1.4](https://github.com/gemsiot/DFM_-_Talon-Aux)
+- [Aux Talon, v1.5](https://github.com/gemsiot/DFM_-_Talon-Aux)
 
 ## System Assembly
 

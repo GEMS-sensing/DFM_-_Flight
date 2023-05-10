@@ -1,8 +1,8 @@
 Item,Make,Model,Part Number,Qty,Notes
-Kestrel Logger Board,Caltronics ,MainLogger_1v7,N/A,1,
+Kestrel Logger Board,Caltronics ,MainLogger_1v8,N/A,1,
 I2C Talon,Caltronics,Talon_I2C_2v1,N/A,1,
 SDI-12 Talon,Caltronics,Talon_SDI12_1v4,N/A,1,
-Aux Talon,Caltronics,AuxTalon_LoadSwitch_1v4,N/A,1,
+Aux Talon,Caltronics,AuxTalon_LoadSwitch_1v5,N/A,1,
 Battery Holder - Gonk,Caltronics,18650_1S3P_Smart_VertCon_1v2,N/A,1,
 Mounting Plate,Custom,WC-24F_v3_MountingPlate_v003,N/A,1,
 Box,Polycase,WC-24F_v3_Body_v005,N/A,1,
